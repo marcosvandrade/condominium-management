@@ -32,7 +32,7 @@ This project is a **web-based application** designed for managing condominium pr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/marcosvandrade/condominium.webdeveloper.name.git
+   git clone https://github.com/marcosvandrade/condominium-management.git
    ```
 2. Install dependencies:
    ```bash
